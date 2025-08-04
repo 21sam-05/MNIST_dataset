@@ -41,6 +41,6 @@ Purpose: A comprehensive library for creating static, animated, and interactive 
 Feel free to reach out if you have any questions or feedback!
 
 SAMRIDHI SAXENA
-> GitHub : https://github.com/21sam-05
-> LinkedIn: https://www.linkedin.com/in/samridhi-saxena-07231a28a/
-> E-mail : saxenasamridhi1921@gmail.com
+* GitHub : https://github.com/21sam-05
+* LinkedIn: https://www.linkedin.com/in/samridhi-saxena-07231a28a/
+* E-mail : saxenasamridhi1921@gmail.com
